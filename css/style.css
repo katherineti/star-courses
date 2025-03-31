@@ -1,0 +1,41 @@
+#section-header{
+    background-color: rgba(0, 94, 255, 0.83);
+    background-image: url("https://img.youtube.com/vi/s9xk77X4m5c/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#section2{
+    background-color: rgba(0, 94, 255, 0.83);
+    background-image: url("../src/programmer-working.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.full-screen {
+    width: 100vw; 
+    height: 100vh; 
+    margin: 0; 
+    padding: 0; 
+}
+
+#plans .card-header, #bodyLogin .card-header, #bodyRegister .card-header{
+    background-color: #0496ff;
+}
+
+footer .nav-link, footer .derechos{ color: white !important; }
+footer .rounded-circle {
+    border-radius: 50%;
+}
+
+#bodyLogin, #bodyRegister{
+    background-color: rgba(0, 94, 255, 0.83);
+    background-image: url("../src/soporte-tecnico.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+label span{
+    color: red;
+}
