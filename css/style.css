@@ -39,3 +39,11 @@ footer .rounded-circle {
 label span{
     color: red;
 }
+/* Añadir a style.css */
+.partner-logo {
+    width: 100%;
+    height: 120px; /* Define una altura fija que te guste */
+    object-fit: contain; /* Esto asegura que la imagen se ajuste sin cortarse ni estirarse */
+    background-color: #f8f9fa; /* Opcional: un fondo ligero para dar uniformidad si los logos tienen fondos transparentes */
+    padding: 10px;
+}
